@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "name": "Hedamo Organic Honey",
+    "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Food",
+    "price": "$24.99",
+    "description": "Pure wild honey harvested from organic farms in the pristine mountains of New Zealand.",
+    "features": ["100% Unprocessed", "Nutrient-rich", "Eco-friendly", "Raw & Pure", "Traceable Source"],
+    "nutrition": {
+      "calories": 70,
+      "sugar": "15g",
+      "carbs": "17g",
+      "protein": "0.1g",
+      "fat": "0g",
+      "sodium": "1mg"
+    },
+    "traceability": {
+      "origin": "Manuka Valley, New Zealand",
+      "harvest_date": "March 2024",
+      "beekeeper": "Golden Valley Apiary",
+      "certification": "USDA Organic Certified",
+      "batch_number": "HH2024-001"
+    },
+    "reviews": [
+      {
+        "name": "Sarah Johnson",
+        "rating": 5,
+        "comment": "Absolutely the best honey I've ever tasted! Rich and pure."
+      },
+      {
+        "name": "Mike Chen",
+        "rating": 5,
+        "comment": "Love the traceability feature. Quality is outstanding."
+      },
+      {
+        "name": "Emma Davis",
+        "rating": 4,
+        "comment": "Great product, though a bit pricey. Worth it for the quality."
+      }
+    ],
+    "benefits": [
+      "Rich in antioxidants",
+      "Natural energy booster",
+      "Supports immune system",
+      "Anti-inflammatory properties"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Olive Oil",
+    "image": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Food",
+    "price": "$32.99",
+    "description": "Extra virgin olive oil cold-pressed from century-old olive trees in Tuscany, Italy.",
+    "features": ["Cold-pressed", "Extra Virgin", "Single Origin", "Award-winning", "Sustainable"],
+    "nutrition": {
+      "calories": 120,
+      "sugar": "0g",
+      "carbs": "0g",
+      "protein": "0g",
+      "fat": "14g",
+      "sodium": "0mg"
+    },
+    "traceability": {
+      "origin": "Tuscany, Italy",
+      "harvest_date": "October 2024",
+      "producer": "Villa Toscana Estate",
+      "certification": "DOP Protected",
+      "batch_number": "OO2024-002"
+    },
+    "reviews": [
+      {
+        "name": "Alessandro Rossi",
+        "rating": 5,
+        "comment": "Authentic Italian taste. Perfect for my pasta dishes!"
+      },
+      {
+        "name": "Linda Wilson",
+        "rating": 5,
+        "comment": "The quality is exceptional. You can taste the difference."
+      }
+    ],
+    "benefits": [
+      "Heart-healthy fats",
+      "Rich in vitamin E",
+      "Anti-inflammatory",
+      "Supports brain health"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Artisan Coffee Beans",
+    "image": "https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Beverages",
+    "price": "$28.50",
+    "description": "Single-origin coffee beans from high-altitude farms in Ethiopian highlands.",
+    "features": ["Single Origin", "Fair Trade", "Small Batch", "Direct Trade", "Specialty Grade"],
+    "nutrition": {
+      "calories": 2,
+      "sugar": "0g",
+      "carbs": "0g",
+      "protein": "0.3g",
+      "fat": "0g",
+      "caffeine": "95mg"
+    },
+    "traceability": {
+      "origin": "Yirgacheffe, Ethiopia",
+      "harvest_date": "December 2023",
+      "farmer": "Konga Cooperative",
+      "certification": "Fair Trade & Organic",
+      "batch_number": "CB2024-003"
+    },
+    "reviews": [
+      {
+        "name": "Coffee Enthusiast",
+        "rating": 5,
+        "comment": "Incredible floral notes and smooth finish. Best coffee ever!"
+      },
+      {
+        "name": "David Park",
+        "rating": 4,
+        "comment": "Great coffee with unique flavor profile. Love the story behind it."
+      }
+    ],
+    "benefits": [
+      "Rich in antioxidants",
+      "Improves focus",
+      "Boosts metabolism",
+      "Supports fair trade"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Organic Matcha Powder",
+    "image": "https://your-ate-ph.com/cdn/shop/products/21843cc1-11a6-4961-986d-084149ba57bb_720x.jpg?v=1590428998",
+    "category": "Beverages",
+    "price": "$22.00",
+    "description": "Stone-ground green tea powder sourced from Uji, Japan, known for its vibrant color and umami flavor.",
+    "features": ["Ceremonial Grade", "Organic", "Antioxidant-Rich", "Vegan", "Gluten-Free"],
+    "nutrition": {
+      "calories": 3,
+      "sugar": "0g",
+      "carbs": "0.6g",
+      "protein": "0.3g",
+      "fat": "0g",
+      "caffeine": "70mg"
+    },
+    "traceability": {
+      "origin": "Uji, Kyoto, Japan",
+      "harvest_date": "October 2023",
+      "farmer": "Tanaka Tea Farms",
+      "certification": "JAS Organic",
+      "batch_number": "MP2024-001"
+    },
+    "reviews": [
+      {
+        "name": "Tea Lover",
+        "rating": 5,
+        "comment": "Smooth, earthy, and energizing. Perfect for morning rituals!"
+      },
+      {
+        "name": "Lina Chen",
+        "rating": 4,
+        "comment": "Great quality matcha. Slightly pricey but worth it."
+      }
+    ],
+    "benefits": [
+      "Enhances calm",
+      "Boosts energy",
+      "Supports metabolism",
+      "Rich in antioxidants"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Himalayan Pink Salt",
+    "image": "https://images.pexels.com/photos/678414/pexels-photo-678414.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pantry",
+    "price": "$8.75",
+    "description": "Mineral-rich pink salt hand-harvested from the foothills of the Himalayas.",
+    "features": ["Unrefined", "Mineral-Rich", "Hand-Harvested", "Non-GMO", "No Additives"],
+    "nutrition": {
+      "calories": 0,
+      "sugar": "0g",
+      "carbs": "0g",
+      "protein": "0g",
+      "fat": "0g",
+      "caffeine": "0mg"
+    },
+    "traceability": {
+      "origin": "Khewra, Pakistan",
+      "harvest_date": "August 2023",
+      "farmer": "Salt Valley Cooperative",
+      "certification": "Natural Product Verified",
+      "batch_number": "HS2024-005"
+    },
+    "reviews": [
+      {
+        "name": "Home Chef",
+        "rating": 5,
+        "comment": "Adds a subtle flavor and looks beautiful on dishes."
+      },
+      {
+        "name": "Ravi Kumar",
+        "rating": 4,
+        "comment": "Great quality, but packaging could be better."
+      }
+    ],
+    "benefits": [
+      "Balances electrolytes",
+      "Supports hydration",
+      "Enhances flavor",
+      "Contains trace minerals"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cold-Pressed Almond Oil",
+    "image": "https://healthyroots.com/cdn/shop/files/ColdPressedAlmondoils.jpg?v=1710936190&width=1080",
+    "category": "Health & Wellness",
+    "price": "$16.90",
+    "description": "Pure almond oil extracted through cold-pressing for maximum nutrient retention.",
+    "features": ["Cold-Pressed", "Non-GMO", "Vegan", "Rich in Vitamin E", "No Preservatives"],
+    "nutrition": {
+      "calories": 120,
+      "sugar": "0g",
+      "carbs": "0g",
+      "protein": "0g",
+      "fat": "14g",
+      "caffeine": "0mg"
+    },
+    "traceability": {
+      "origin": "California, USA",
+      "harvest_date": "September 2023",
+      "farmer": "Golden Grove Farms",
+      "certification": "USDA Organic",
+      "batch_number": "AO2024-002"
+    },
+    "reviews": [
+      {
+        "name": "Wellness Guru",
+        "rating": 5,
+        "comment": "Perfect for skincare and cooking. Light and nourishing."
+      },
+      {
+        "name": "Priya Nair",
+        "rating": 4,
+        "comment": "Good quality, but wish it came in a larger bottle."
+      }
+    ],
+    "benefits": [
+      "Moisturizes skin",
+      "Improves heart health",
+      "Rich in antioxidants",
+      "Supports hair growth"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Raw Honeycomb",
+    "image": "https://honeyandspice.in/cdn/shop/files/C5D_3622.jpg?v=1740227461&width=1080",
+    "category": "Natural Sweeteners",
+    "price": "$14.25",
+    "description": "Unfiltered honeycomb straight from the hive, packed with enzymes and natural sweetness.",
+    "features": ["Raw", "Unfiltered", "No Additives", "Bee-Friendly", "Locally Sourced"],
+    "nutrition": {
+      "calories": 64,
+      "sugar": "17g",
+      "carbs": "17g",
+      "protein": "0.1g",
+      "fat": "0g",
+      "caffeine": "0mg"
+    },
+    "traceability": {
+      "origin": "Nilgiri Hills, India",
+      "harvest_date": "November 2023",
+      "farmer": "Bee Harmony Collective",
+      "certification": "Organic & Bee-Friendly",
+      "batch_number": "HC2024-007"
+    },
+    "reviews": [
+      {
+        "name": "Nature Lover",
+        "rating": 5,
+        "comment": "So pure and delicious. Melts in your mouth!"
+      },
+      {
+        "name": "Arjun Mehta",
+        "rating": 4,
+        "comment": "Great taste, but a bit sticky to handle."
+      }
+    ],
+    "benefits": [
+      "Natural energy source",
+      "Supports immunity",
+      "Antibacterial properties",
+      "Promotes digestive health"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vegan Protein Blend",
+    "image": "https://images.pexels.com/photos/1435907/pexels-photo-1435907.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Fitness & Nutrition",
+    "price": "$32.00",
+    "description": "Plant-based protein powder made from pea, brown rice, and chia seeds for complete amino acid profile.",
+    "features": ["Plant-Based", "Gluten-Free", "Soy-Free", "Non-GMO", "Complete Protein"],
+    "nutrition": {
+      "calories": 120,
+      "sugar": "1g",
+      "carbs": "4g",
+      "protein": "20g",
+      "fat": "2g",
+      "caffeine": "0mg"
+    }
+  }
+]
