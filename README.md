@@ -25,7 +25,7 @@ A modern, responsive product showcase application built with Next.js and Tailwin
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/siva4465/Hedamo-Frontend_Developer_Assignment.git>
    cd hedamo-product-showcase
    ```
 
@@ -212,6 +212,6 @@ This project is created for the Hedamo Frontend Developer Assignment.
 
 **Live Demo**: [Your GitHub Pages URL will be here after deployment]
 
-**Repository**: [Your GitHub Repository URL]
+**Repository**: https://github.com/siva4465/Hedamo-Frontend_Developer_Assignment.git
 
 For questions or support, please create an issue in the GitHub repository.
